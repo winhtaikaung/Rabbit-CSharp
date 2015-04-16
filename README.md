@@ -1,1 +1,4 @@
 # Rabbit-CSharp
+
+## License
+MIT
