@@ -1,0 +1,4 @@
+c:\users\wha\documents\visual studio 2012\Projects\RabbitConverter\RabbitConverter\bin\Debug\RabbitConverter.dll
+c:\users\wha\documents\visual studio 2012\Projects\RabbitConverter\RabbitConverter\bin\Debug\RabbitConverter.pdb
+c:\users\wha\documents\visual studio 2012\Projects\RabbitConverter\RabbitConverter\obj\Debug\RabbitConverter.dll
+c:\users\wha\documents\visual studio 2012\Projects\RabbitConverter\RabbitConverter\obj\Debug\RabbitConverter.pdb
