@@ -1,10 +1,9 @@
 # Rabbit-CSharp
 ![Logo](https://avatars3.githubusercontent.com/u/11961573?v=3&s=100)
-	Rabbit Converter for C sharp 
-
+	
+### Zawgyi to Unicode <=> Unicode to Zawgyi converter for C# 
 	Requires :.Net framework 3.5
-	Convert  : Unicode to Zawgyi 
-		   Zawgyi to Unicode 
+	
 # Installation
 	Download Project as zip and Open Project in Visual Studio and Build 
 	
